@@ -1,0 +1,1 @@
+from service.prime_number_service import *

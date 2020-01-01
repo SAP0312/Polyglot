@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+#Pycharm
+**/.idea/workspace.xml 
+**/.idea/tasks.xml
+
+# Environments
+venv
+
+lib
